@@ -45,6 +45,26 @@ main div button:nth-child(2){
     border-spacing: 1px;
 }
 
-.containermain{
 
+.containermain{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 1px auto auto auto;
+    background-color: white;
+    height: 600px;
+    width: 720px;
+    border-spacing: 1px;
+
+
+
+}
+h3, p{
+    background-color: white;
+    padding-top: 10px;
+}
+p{
+    padding-left: 8px;
+}
+.menu{
+    padding-top 100px;
 }
