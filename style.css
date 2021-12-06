@@ -23,6 +23,28 @@ h1{
     padding-left: 60px;
     font-size: 36px;
 }
- .button{
-     color: blue;
- }
+main div button{
+    
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+    background-color: blue;
+
+}
+main div button:nth-child(2){
+    background-color: rgb(255, 255, 255);
+    color: blue;
+}
+.containerb{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 60px auto auto auto;
+    background-color: white;
+    height: 50px;
+    width: 720px;
+    border-spacing: 1px;
+}
+
+.containermain{
+
+}
