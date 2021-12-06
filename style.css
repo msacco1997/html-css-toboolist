@@ -51,7 +51,7 @@ main div button:nth-child(2){
     padding-right: 100px;
     margin: 1px auto auto auto;
     background-color: white;
-    height: 600px;
+    height: 440px;
     width: 720px;
     border-spacing: 1px;
 
@@ -64,7 +64,62 @@ h3, p{
 }
 p{
     padding-left: 8px;
+    
 }
 .menu{
     padding-top 100px;
 }
+.editorial{
+    color: white;
+    background-color: lightblue;
+    font-size: medium;
+    border-color: unset;
+    shape-margin: 1px;
+    
+    
+}
+.q1{
+    color: white;
+    background-color: rgb(195, 75, 219);
+    font-size: medium;
+    border-color: unset;
+    shape-margin: 1px;
+}
+.recruiting{
+    color: white;
+    background-color: rgb(84, 243, 182);
+    font-size: medium;
+    border-color: unset;
+    shape-margin: 1px;
+}
+.mobile{
+    color: white;
+    background-color: orange;
+    font-size: medium;
+    border-color: unset;
+    shape-margin: 1px;
+}
+.website{
+    color: white;
+    background-color: lightpink;
+    font-size: medium;
+    border-color: unset;
+    shape-margin: 1px;
+}
+.sales{
+    color: white;
+    background-color: lightgreen;
+    font-size: medium;
+    border-color: unset;
+    shape-margin: 1px;
+}
+button{
+    display: inline-block;
+}
+.menu{
+    background-color: white;
+}
+span{
+    background-color: white;
+}
+
