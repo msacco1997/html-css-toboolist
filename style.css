@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+
+body{
+    width: 1024px;
+    margin: 0px auto;
+}
+
+header div h1{
+    background-color: white;
+    height: 60px;
+    background-image: url("img/logo\ copia.png");
+    background-repeat: no-repeat;
+    
+
+}
+h1{
+    padding-top: 10px;
+    padding-left: 60px;
+    font-size: 36px;
+}
+ .button{
+     color: blue;
+ }
