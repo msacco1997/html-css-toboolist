@@ -15,6 +15,7 @@ header div h1{
     height: 60px;
     background-image: url("img/logo\ copia.png");
     background-repeat: no-repeat;
+    border-radius: 5px;
     
 
 }
@@ -29,6 +30,7 @@ main div button{
     color: rgb(255, 255, 255);
     margin-top: 15px;
     background-color: blue;
+    border-radius: 5px;
 
 }
 main div button:nth-child(2){
@@ -43,6 +45,7 @@ main div button:nth-child(2){
     height: 50px;
     width: 720px;
     border-spacing: 1px;
+    border-radius: 5px;
 }
 
 
@@ -54,8 +57,7 @@ main div button:nth-child(2){
     height: 440px;
     width: 720px;
     border-spacing: 1px;
-
-
+    border-radius: 5px;
 
 }
 h3, p{
@@ -72,46 +74,57 @@ p{
 .editorial{
     color: white;
     background-color: lightblue;
-    font-size: medium;
+    font-size: small;
     border-color: unset;
     shape-margin: 1px;
-    
+    border-radius: 7px;
+    border: none;
     
 }
 .q1{
     color: white;
     background-color: rgb(195, 75, 219);
-    font-size: medium;
+    font-size: small;
     border-color: unset;
     shape-margin: 1px;
+    border-radius: 7px;
+    border: none;
 }
 .recruiting{
     color: white;
     background-color: rgb(84, 243, 182);
-    font-size: medium;
+    font-size: small;
     border-color: unset;
     shape-margin: 1px;
+    border-radius: 7px;
+    border: none;
 }
 .mobile{
     color: white;
     background-color: orange;
-    font-size: medium;
+    font-size: small;
     border-color: unset;
     shape-margin: 1px;
+    border-radius: 7px;
+    border: none;
 }
 .website{
     color: white;
     background-color: lightpink;
-    font-size: medium;
+    font-size: small;
     border-color: unset;
     shape-margin: 1px;
+    border-radius: 7px;
+    border: none;
 }
 .sales{
     color: white;
     background-color: lightgreen;
-    font-size: medium;
+    font-size: small;
     border-color: unset;
     shape-margin: 1px;
+    border-radius: 7px;
+    border: none;
 }
 button{
     display: inline-block;
